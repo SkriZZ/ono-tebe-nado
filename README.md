@@ -1,0 +1,1 @@
+git@github.com:SkriZZ/ono-tebe-nado.git
